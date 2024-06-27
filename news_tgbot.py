@@ -7,17 +7,11 @@ import vk_api
 import time
 
 # Введите ваши токены
-TELEGRAM_TOKEN =  '7232440611:AAFERGaQycB3FfEmi1L11ZE5L4khZWiT7aw'
-VK_ACCESS_TOKEN = '79a1dac979a1dac979a1dac9f97ab92a2d779a179a1dac91fdb612d3a48ef342d69ab4f'
+TELEGRAM_TOKEN =  'ВАШ_ТОКЕН'
+VK_ACCESS_TOKEN = 'ВАШ_ОТКРЫТЫЙ_ТОКЕН'
 GROUP_IDS = [
-    ('uhtamuseum', 'Ухтинский музей'),
-    ('daynewstv', 'Программа День'),
-    ('club198743478', 'ТранСервис'),
-    ('dyx_vera', 'ГОК Водный'),
-    ('gsp_online', 'ГСП Онлайн'),
-    ('razvitie_komi', 'Ассоциация "Развитие" г. Ухта'),
-    ('retrouhta', 'Ретро Ухта'),
-    ('vhs2avi', 'Оцифровка видеокассет в Ухте')
+    ('ID 1', 'Название группы 1'),
+    ('ID 2', 'Название группы 2')
 ]  # Список ID групп ВКонтакте
 
 # Логирование
